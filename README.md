@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+### Working on open source projects, consultant for Spring/Hibernate/java/kotlin/scala/etc
+
+### Freelance via [Malt](https://www.malt.fr/profile/yoanncaplain)
+
+### My developer site (take a look [here](http://www.blackdread.org/)).
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Blackdread&count_private=true&show_icons=true)
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Blackdread&langs_count=8&layout=compact)
+
 <!--
 **Blackdread/Blackdread** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
